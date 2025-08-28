@@ -1,2 +1,2 @@
-# classic_ml
-Classic ML notebooks
+# Classic ML notebooks
+
